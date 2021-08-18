@@ -1,0 +1,26 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawn-Imran/demo-website.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Md. Al Mahmud Imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawn-Imran/demo-website/issues"
+  },
+  "homepage": "https://github.com/Shawn-Imran/demo-website#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
